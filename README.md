@@ -2,7 +2,8 @@
 
 <!--
 **Nil-Jimenez/Nil-Jimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Uploading image.png…]()
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d1fbcab2-967a-4300-965f-5695142998d9" />
+
 
 
 Here are some ideas to get you started:
