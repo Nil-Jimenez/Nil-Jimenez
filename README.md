@@ -3,15 +3,21 @@
 Hi! I'm Nil :)
 
                                                                 
-![Diseño sin título](https://github.com/user-attachments/assets/376572d8-63a0-4bf4-b3f6-f65cae6254a6)
+![Diseño sin título (1)](https://github.com/user-attachments/assets/81379ccd-162e-4c68-9c55-2a8a84a4d0c3)
+
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
 
-> Studies:
+> 
 
-	ESO: Petit Plançó​ 
-	CFGM SMX: Bosc de la Coma​
-	CFGS VOID: Enti​-UB
+	const NilJr = {
+  		pronouns: "he" | "him";
+ 		age: 18;
+  		code: [C++, C#, Python, HTML, CSS]
+  		software: Unity;
+  		introduction: "Just a student starting out in programming, I study game development at ENTI-UB in Barcelona. 
+					   Big fan of video games,anime, and 3D animation."*
+	}
 
 > Works:
 
