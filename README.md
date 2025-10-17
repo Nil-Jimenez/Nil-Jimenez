@@ -6,7 +6,7 @@ Hi! I'm Nil :)
 
 
 
-<img width="238" height="460" alt="ascii-art (3)" src="https://github.com/user-attachments/assets/b208365c-d6f3-4549-8002-a6c9e8dc2ad2" />
+<img width="338" height="560" alt="ascii-art (3)" src="https://github.com/user-attachments/assets/b208365c-d6f3-4549-8002-a6c9e8dc2ad2" />
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
 
