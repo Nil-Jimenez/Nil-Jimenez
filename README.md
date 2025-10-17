@@ -4,8 +4,9 @@
 Hi! I'm Nil :)
 
 
-<img width="639" height="808" alt="ascii-art fianl)" src="https://github.com/user-attachments/assets/58d789b5-6b5d-4aa8-a96e-733f994ca20c" />
 
+
+<img width="438" height="860" alt="ascii-art (3)" src="https://github.com/user-attachments/assets/b208365c-d6f3-4549-8002-a6c9e8dc2ad2" />
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
 
