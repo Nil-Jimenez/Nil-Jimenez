@@ -12,7 +12,7 @@ Hi! I'm Nil :)
 
 	ESO: Petit Plançó​ 
 	CFGM SMX: Bosc de la Coma​
-	CFGS VOID: Enti​
+	CFGS VOID: Enti​-UB
 
 > Experience:
 
