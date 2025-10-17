@@ -3,7 +3,7 @@
 Hi! I'm Nil :)
 
                                                                 
-![Diseño sin título (2)](https://github.com/user-attachments/assets/6dd1f96b-8bb4-415d-9617-ded4f373c9d7)
+![Diseño sin título (4)](https://github.com/user-attachments/assets/502528ed-c1d1-4216-8842-b2831422620c)
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
 
