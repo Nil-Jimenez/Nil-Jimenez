@@ -13,11 +13,11 @@ Hi! I'm Nil :)
 	CFGM SMX: Bosc de la Coma​
 	CFGS VOID: Enti​-UB
 
-> Experience:
+> Works:
 
-	IT Support Technician – Department of Information Systems Hospital d’Olot Comarcal La Garrotxa​
 	Developer and web designer: omarsoundesign.com ​
 	Developer and web designer constructions and reforms davinuk slu: efficienthouse.cat​
+	IT Support Technician – Department of Information Systems Hospital d’Olot Comarcal La Garrotxa​
 
 > Contact:
 	
