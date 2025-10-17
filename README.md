@@ -3,8 +3,8 @@
 
 **Nil-Jimenez/Nil-Jimenez** is a ✨ _special_ ✨ repository.
 
+<img width="755" height="1420" alt="image" src="https://github.com/user-attachments/assets/60570298-1cfc-499d-8fa6-bc7532c762db" />
 
-<img width="359" height="324" alt="image" src="https://github.com/user-attachments/assets/8d91abc7-5c23-4c25-9d03-23d7e3280122" />
 
                                                                                                                               
                                                                                                     
