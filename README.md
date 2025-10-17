@@ -8,7 +8,7 @@ Hi! I'm Nil :)
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
 
-> Studies
+> Studies:
 
 	ESO: Petit Plançó​ 
 	CFGM SMX: Bosc de la Coma​
