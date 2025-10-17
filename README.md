@@ -3,7 +3,7 @@
 
 **Nil-Jimenez/Nil-Jimenez** is a ✨ _special_ ✨ repository.
 
-<img width="220" height="224" alt="image" src="https://github.com/user-attachments/assets/5856e685-a2c8-404f-9122-22a69bc2569a" />
+![cat-spinning-cat](https://github.com/user-attachments/assets/dec6e330-ea27-4858-b980-f7896a7a81e4)
 
 
 
