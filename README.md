@@ -20,7 +20,7 @@ Hi! I'm Nil :)
 	Developer and web designer: omarsoundesign.com ​
 	Developer and web designer constructions and reforms davinuk slu: efficienthouse.cat​
 
-> Contacts:
+> Contact:
 	
 	Email: nil.jimenez@estudiant.enti.cat
 
