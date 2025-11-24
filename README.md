@@ -1,8 +1,5 @@
-# Welcome
-
-Hi! I'm Nil :)
-
-                                                                
+# Hi! I'm Nil :)
+                                                        
 ![xk8phk](https://github.com/user-attachments/assets/83d0b693-08c1-4221-ba1a-6b2a18742f42)
 
 **.** **Nil Jiménez Rodríguez** -------------------------------------------------------
