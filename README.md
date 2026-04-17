@@ -8,7 +8,7 @@
 
 	const NilJr = {
   		pronouns: "he" | "him";
- 		age: 18;
+ 		age: 19;
   		code: [C++, C#, Python, HTML, CSS]
   		software: Unity;
   		introduction: "Just a student starting out in programming, I study game development at ENTI-UB in Barcelona. 
